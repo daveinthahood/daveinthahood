@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-[![Spotify](https://novatorem-34y5ti14i-daveinthahood.vercel.app/api/spotify)](https://open.spotify.com/user/daveinthahood)
+[![Spotify](https://novatorem-34y5ti14i-daveinthahood.vercel.app/api/spotify)](https://open.spotify.com/user/7x9jmrmkvst4llrdhbw26kfgw)
 
 
 
