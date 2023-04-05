@@ -34,6 +34,14 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/daveinthahood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daveinthahood" height="30" width="40" /></a>
 </p>
 
+
+
+[![Spotify](https://novatorem-34y5ti14i-daveinthahood.vercel.app/api/spotify)](https://open.spotify.com/user/daveinthahood)
+
+
+
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
