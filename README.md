@@ -36,10 +36,7 @@ Here are some ideas to get you started:
 
 
 
-[![Spotify](https://novatorem-34y5ti14i-daveinthahood.vercel.app/api/spotify)](https://open.spotify.com/user/7x9jmrmkvst4llrdhbw26kfgw)
-
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7x9jmrmkvst4llrdhbw26kfgw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3 align="center">Languages and Tools:</h3>
