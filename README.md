@@ -69,6 +69,5 @@ Here are some ideas to get you started:
 <a href="https://opensea.io/account" target="_blank" rel="noreferrer"> <img src="https://dl.openseauserdata.com/cache/originImage/files/5e02231c3332e0721cb622258bb527b7.png" alt="react" width="200" height="200"/> </a>
 <a href="https://opensea.io/account" target="_blank" rel="noreferrer"> <img src="https://dl.openseauserdata.com/cache/originImage/files/eb1515ed80d10eba7ea4e4e19f0a7598.png" alt="react" width="200" height="200"/> </a>
 <a href="https://opensea.io/account" target="_blank" rel="noreferrer"> <img src="https://dl.openseauserdata.com/cache/originImage/files/7b9ee10b3d075a4798fcaddf7e3be923.png" alt="react" width="200" height="200"/> </a>
-
-  
+</p>
 
