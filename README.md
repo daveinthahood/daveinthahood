@@ -1,3 +1,6 @@
+![mr-robot-tv-series-hello-friend-elliot-mr-robot-hd-wallpaper-preview](https://user-images.githubusercontent.com/101344486/230163975-5a454aa4-76bd-4365-aef8-4cf739a70910.jpg)
+
+
 
 <h1 align="center"><strong> My name is Davide but you can call me Dave </strong></h1> 
 
