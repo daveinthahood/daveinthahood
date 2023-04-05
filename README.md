@@ -1,7 +1,7 @@
 
 <h1 align="center"><strong> My name is Davide but you can call me Dave </strong></h1> 
 
-<p align="center">Hello everyone I am Davide and I am a student.<br>
+<p align="left">Hello everyone I am Davide and I am a student.<br>
 I am studying to get a certificate as a Full Stack Developer.<br> 
 Since I was little I have been used to deal with computers and during the years it has always been very easy for me to learn how to use new technologies.<br> 
 As a self-taught I learned to use <em> PHOTOSHOP, ILLUSTRATOR, PREMIERE and FIGMA.</em><br>
@@ -25,18 +25,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=daveinthahood&label=Profile%20views&color=0e75b6&style=flat" alt="daveinthahood" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveinthahood&label=Profile%20views&color=0e75b6&style=flat" alt="daveinthahood" /> </p>
 
-<p align="center"> <a href="https://twitter.com/daveinthahood" target="blank"><img src="https://img.shields.io/twitter/follow/daveinthahood?logo=twitter&style=for-the-badge" alt="daveinthahood" /></a> </p>
+<p align="left"> <a href="https://twitter.com/daveinthahood" target="blank"><img src="https://img.shields.io/twitter/follow/daveinthahood?logo=twitter&style=for-the-badge" alt="daveinthahood" /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/daveinthahood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daveinthahood" height="30" width="40" /></a>
 </p>
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7x9jmrmkvst4llrdhbw26kfgw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7x9jmrmkvst4llrdhbw26kfgw&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3 align="center">Languages and Tools:</h3>
