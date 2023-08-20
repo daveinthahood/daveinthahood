@@ -13,6 +13,7 @@ For the past year I have been serving as a Server Manager in some Discord Server
 Besides computing my hobbies are : <strong> Web 3.0, music, sports and video games.</strong> <br>
 
 Once I finish the course I would like to work in a company that makes web apps for web 3.0 and maybe even launch my own NFT project.</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveinthahood&show_icons=true&theme=radical)
 
 
 <!--
