@@ -63,12 +63,6 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/daveinthahood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daveinthahood" height="30" width="40" /></a>
-</p> <hr>
-
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7x9jmrmkvst4llrdhbw26kfgw&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
