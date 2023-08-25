@@ -5,8 +5,9 @@
 </p>
 
 <h1 align="left"><strong> >> Bio </strong></h1> 
+<p> Ciao a tutti io sono Davide e sono un Junior Front End Developer</p>
 
-<h2 align="left"> >> Stack : </h2>
+<h3 align="left"> >> Stack : </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,16 +19,23 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-<h2> >> Deploy: </h2>
+<h3> >> Deploy: </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7")>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-<h2> OS:</h2>
+<h3> >> OS:</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
+
+<h3> >>  Social </h3>
+<p align="left"> 
+<img src="">
+<img src="">
+<img src="">
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveinthahood&show_icons=true&theme=radical)
