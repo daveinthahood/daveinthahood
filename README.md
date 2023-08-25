@@ -6,8 +6,12 @@
 
 <h1 align="left"><strong> >> Bio </strong></h1> 
 <p> Ciao a tutti io sono Davide e sono un Junior Front End Developer</p>
+- 🌱 Sto Studiando presso DevelHope <br>
+- 🤔 Vorrei diventare un Blockchain Developer <br>
+- 📫 Puoi contattarmi tramite telegram, lo trovi sotto
 
-<h3 align="left"> >> Stack : </h3>
+
+<h3 align="left"> 🔑 Stack : </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,21 +21,17 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
-<h3> >> Deploy: </h3>
-<p align="left">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7")>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-<h3> >> OS:</h3>
+<h3> 🖥️ OS:</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 </p>
 
-<h3> >>  Social </h3>
+<h3> 📱  Social </h3>
 <p align="left"> 
 <img src="">
 <img src="">
