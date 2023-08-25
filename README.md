@@ -33,9 +33,11 @@
 
 <h3> 📱  Social </h3>
 <p align="left"> 
-<img src="">
-<img src="">
-<img src="">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveinthahood&show_icons=true&theme=radical)
