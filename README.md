@@ -6,8 +6,8 @@
 
 <h1 align="left"><strong> ℹ️ Bio </strong></h1> 
 <p> Ciao a tutti io sono Davide e sono un Junior Front End Developer</p>
-- 🌱 Sto Studiando presso DevelHope <br>
-- 🤔 Vorrei diventare un Blockchain Developer <br>
+- 🌱 Sviluppatore Web <br>
+- 🤔 Attualmente lavoro sviluppando su Service Now <br>
 - 📫 Puoi contattarmi tramite telegram, lo trovi sotto
 
 
